@@ -1,0 +1,1 @@
+gitUpdate && git rebase origin/%1

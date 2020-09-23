@@ -1,0 +1,1 @@
+gitupdate | git branch -r | grep %1 | xargs git rebase

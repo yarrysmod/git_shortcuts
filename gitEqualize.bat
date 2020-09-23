@@ -1,0 +1,1 @@
+git checkout -B %1 HEAD

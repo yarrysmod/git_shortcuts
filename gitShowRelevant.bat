@@ -1,0 +1,1 @@
+git branch -r | grep -Po "origin/(epic|bug|task).*"

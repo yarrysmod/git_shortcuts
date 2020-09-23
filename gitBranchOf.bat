@@ -1,0 +1,1 @@
+gitUpdate && git checkout -b %2 origin/%1

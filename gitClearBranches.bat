@@ -1,0 +1,1 @@
+git branch | xargs git branch -D
